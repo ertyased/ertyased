@@ -1,5 +1,5 @@
-def main():
-    print('My firnjkbhjkbnjkbst git program')
+def main(): # New Day new Print
+    print('My first git program')
     print('And I change it every day')
 
 
