@@ -1,7 +1,7 @@
 def main():
     a = 0
     a += 1
-    print('It Program')
+    print('Its Program')
 
 
 if __name__ == '__main__':
